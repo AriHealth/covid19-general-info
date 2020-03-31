@@ -51,7 +51,7 @@ For an extensive, updated list of projects and initiatives, please refer to the 
 |[Folding@home COIVD-19 efforts](https://github.com/FoldingAtHome/coronavirus)| GitHub repository that contains input files to better understnd how SARS-CoV-2 can be targeted with small molecule and antibody therapeutics. It is possible to share parte of your CPU/GPU power to help!|
 |[Crowdfight COVID-19](https://crowdfightcovid19.org/)|An initiative from the scientific community to put all available resources at the service of the fight against COVID-19.|
 
-## Disclaimer and Contributions
+## Disclaimer and Contributions <a name="contributions"></a>
 
 All data presented in this repository is credited to their respective authors.
 

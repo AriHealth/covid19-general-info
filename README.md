@@ -12,7 +12,7 @@
 
 The Coronavirus disease 2019 (COVID-19 for short) is an infectious disease caused by a virus, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Both the disease and the virus were unknown until the Wuhan (China) outbreak in December 2019. Since its identification, the disease has spread globally, resulting in the ongoing 2019-20 coronavirus pandemic.
 
-Here is a list of links provided by the [World Health Organization (WHO)](https://www.who.int/) regarding a more extensive explanation of the subject matter, ranging from what is a coronavirus to general public advicea about the current pandemic.
+Here is a list of links provided by the [World Health Organization (WHO)](https://www.who.int/) regarding a more extensive explanation of the subject matter, ranging from what is a coronavirus to general public advice about the current pandemic.
 
 | Link  | Description  |
 |:------|:-------------|
@@ -22,7 +22,7 @@ Here is a list of links provided by the [World Health Organization (WHO)](https:
 
 
 ## Datasets and Databases <a name="datasets-and-databases"></a>
-Even if the publicly available information about COVID-19 is still somewhat scarce from a data scientis viewpoint, more and more datasets are being provided from different goverment agencies and health organisms all around the world to address the problem.
+Even if the publicly available information about COVID-19 is still somewhat scarce from a data scientist viewpoint, more and more datasets are being provided from different goverment agencies and health organisms all around the world to address the problem.
 
 Here it is all the datasets I've found at the moment:
 
@@ -42,13 +42,13 @@ Here it is all the datasets I've found at the moment:
 
 
 ## Projects and Initiatives <a name="projects-and-initiatives"></a>
-For an extensive, updated list of projects and initiatives, please refer to the GitHub repository [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+For an extensive, updated list of projects and initiatives, please refer to the GitHub repository [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus).
 
 | Link  | Description  |
 |:------|:-------------|
 |[COVID-19 Vulnerability Index](https://github.com/closedloop-ai/cv19index) | GitHub repository with a set of open source models that can be used to test an individual risk if they catch the coronavirus.|
 |[COVID-19 Machine Learning Models](https://doctortarget.com/proje/covid-19-data-sources/)|drTarget Machine Learning models to identify potential COVID-19 & SARS inhibitors from public repositories.|
-|[Folding@home COIVD-19 efforts](https://github.com/FoldingAtHome/coronavirus)| GitHub repository that contains input files to better understnd how SARS-CoV-2 can be targeted with small molecule and antibody therapeutics. It is possible to share parte of your CPU/GPU power to help!|
+|[Folding@home COIVD-19 efforts](https://github.com/FoldingAtHome/coronavirus)| GitHub repository that contains input files to better understand how SARS-CoV-2 can be targeted with small molecule and antibody therapeutics. It is possible to share part of your CPU/GPU power to help!|
 |[Crowdfight COVID-19](https://crowdfightcovid19.org/)|An initiative from the scientific community to put all available resources at the service of the fight against COVID-19.|
 
 ## Disclaimer and Contributions <a name="contributions"></a>

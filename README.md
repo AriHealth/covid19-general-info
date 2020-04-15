@@ -33,12 +33,16 @@ Here it is all the datasets I've found at the moment:
 |[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)| Dataset composed over 29000 academic articles on SARS-CoV-2, SARS, MERS and related viruses on Kaggle.|
 |[COVID-19 Complete Dataset (Updated every 24hrs)](https://www.kaggle.com/imdevskp/corona-virus-report) | Number of Confirmed, Dead and Recovered cases every day across the globe.|
 |[Chemdiv Database](https://www.chemspider.com/DatasourceDetails.aspx?id=111) | Database of different chemical compounds to test against SARS-CoV-2 virus genome.|
-|[John Hopkins GitHub Coronavirus](https://github.com/willhaslett/covid-19-growth) | A GitHub repository which links the daily John Hopkins University COVID-19 case count files around the globe.|
+|[John Hopkins GitHub Coronavirus](https://github.com/CSSEGISandData/COVID-19) | COVID-19 Cases provided by the John Hopkins University.|
+|[New York Times COVID-19 Data in USA](https://github.com/CSSEGISandData/COVID-19) | COVID-19 cumulative counts provided by The New York Times.|
+|[COVID-19 Case Growth Count](https://github.com/willhaslett/covid-19-growth) | A toolkit for the John Hopkins and New York Times COVID-19 data.|
 |[COVID-19 Korea Dataset & Comprehensive Medical Dataset & Visualizer](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset) | Comprehensive dataset of all the available data on the disease from Korea.|
 |[COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset)|GitHub repository with X-Rays and CT images from COVID-19 cases.|
 |[Spain's Ministerio de Sanidad, Consumo y Bienestar Social extracted data](https://github.com/datadista/datasets/tree/master/COVID%2019)| GitHub repository with data parsed and cleaned from Spanish government daily reports.|
 |[Epidemiological situation of COVID-19 in Castilla y León (Spain)](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/#situacin-actual)|Situation of the pandemic in Castilla y León province (Spain).|
 |[Italian Government open COVID-19 dataset](https://github.com/pcm-dpc/COVID-19) | Public dataset of Italian provinces daily status in relation to COVID-19.|
+|[BIMCV Pneumonia detection](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19) | Medical Image dataset for pneumonia early diagnosis provided by the Medical Imaging Databank of the Valencian Region (**COVID-19 pneumonia related images not available at the moment**)|
+
 
 
 ## Projects and Initiatives <a name="projects-and-initiatives"></a>
@@ -50,6 +54,9 @@ For an extensive, updated list of projects and initiatives, please refer to the 
 |[COVID-19 Machine Learning Models](https://doctortarget.com/proje/covid-19-data-sources/)|drTarget Machine Learning models to identify potential COVID-19 & SARS inhibitors from public repositories.|
 |[Folding@home COIVD-19 efforts](https://github.com/FoldingAtHome/coronavirus)| GitHub repository that contains input files to better understand how SARS-CoV-2 can be targeted with small molecule and antibody therapeutics. It is possible to share part of your CPU/GPU power to help!|
 |[Crowdfight COVID-19](https://crowdfightcovid19.org/)|An initiative from the scientific community to put all available resources at the service of the fight against COVID-19.|
+|[corona-cli](https://github.com/ahmadawais/corona-cli)| A command line tool for tracking COVID-19 data and statistics (Cases, Deaths, Recovered, Active...) by country|
+
+
 
 ## Disclaimer and Contributions <a name="contributions"></a>
 
